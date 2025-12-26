@@ -191,8 +191,7 @@ st.markdown("""
 st.markdown("""
 <div class="main-header">
     <h1>📘 TRỢ LÝ SOẠN GIÁO ÁN TỰ ĐỘNG (NLS)</h1>
-    <p>Tác giả: Lù Seo Sần - Trường PTDTBT Tiểu học Bản Ngò - ĐT: 097 1986 343</p>
-</div>
+    <p>Tác giả: Nguyễn Minh Huế - Trường Tiểu học Vĩnh Thành - ĐT: 0336 201 091091</p> </div>
 """, unsafe_allow_html=True)
 
 if "GEMINI_API_KEY" in st.secrets:
@@ -347,4 +346,4 @@ if st.button("🚀 SOẠN GIÁO ÁN NGAY"):
 
 # --- CHÂN TRANG ---
 st.markdown("---")
-st.markdown("<div style='text-align: center; color: #666;'>© 2025 - Lù Seo Sần - Trường PTDTBT Tiểu học Bản Ngò - ĐT: 097 1986 343</div>", unsafe_allow_html=True)
+st.markdown("<div style='text-align: center; color: #666;'>© 2025 - Nguyễn Minh Huế - Trường Tiểu học Vĩnh Thành - ĐT: 0336 201 091</div>", unsafe_allow_html=True)
